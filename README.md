@@ -4,7 +4,7 @@ Sadece Html ve Css ie yapılan bir site çalışması
 
 <h2> Yararlandığım Kütüphane<h2>
 
-<a href="https://fontawesome.com/"> font sitesi</a>
+<a href="https://fontawesome.com/"> fontawesame </a>
 
 <h2>Ekran Görüntüsü<h2>
 
