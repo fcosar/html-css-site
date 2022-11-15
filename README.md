@@ -1,10 +1,10 @@
-<h1>Sadece Html ve Css ie yapılan bir site çalışması<h1>
+<h1>Paylaştıkça <h1>
 
-<h2> Yararlandığım Kütüphaneler<h2>
+Sadece Html ve Css ie yapılan bir site çalışması
 
-<a href="https://fontawesome.com/"></a>
+<h2> Yararlandığım Kütüphane<h2>
 
-<a href="https://fonts.googleapis.com/"></a>
+<a href="https://fontawesome.com/"> font sitesi</a>
 
 <h2>Ekran Görüntüsü<h2>
 
